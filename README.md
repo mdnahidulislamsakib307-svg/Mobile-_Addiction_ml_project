@@ -77,7 +77,7 @@ An interactive web application is built using Streamlit where users can:
 
 ## 🌐 Live Demo
 
-👉 Add your Hugging Face link here](https://huggingface.co/spaces/sakib2040/m-project#mobile-phone-usage-addiction-prediction))
+👉(https://huggingface.co/spaces/sakib2040/m-project#mobile-phone-usage-addiction-prediction))
 
 ---
 
